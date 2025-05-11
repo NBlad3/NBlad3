@@ -1,5 +1,4 @@
 <p align="center">
-<img src="./assets/banner.png" width="1100" /> 
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&pause=1000&color=1209F7&center=true&vCenter=true&width=435&lines=DATA+SCIENTIST" alt="Typing SVG" />
